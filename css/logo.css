@@ -93,6 +93,7 @@ header .container {
 } 
 header .container a.logo {
   font-size: 30px;
+  text-decoration: none;
   color: var(--main-color);
 }
 header nav {
@@ -207,6 +208,7 @@ header .container li:last-child a {
    padding: 15px 35px;
    border-radius: 24px;
    font-size: 14px;
+   text-decoration: none;
 }
 .home .text .links a:first-child {
    margin-right: 10px;
